@@ -10,3 +10,7 @@
 
 * [Untitled](directory-api/untitled.md)
 
+## Discord Bot
+
+* [Untitled](discord-bot/untitled.md)
+
