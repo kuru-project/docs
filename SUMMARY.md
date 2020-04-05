@@ -2,13 +2,13 @@
 
 * [What is this?](README.md)
 
-## Main API
+## Main Server
 
-* [Untitled](main-api/untitled.md)
+* [Untitled](main-server/untitled.md)
 
-## Directory API
+## Anime/Manga Directory
 
-* [Untitled](directory-api/untitled.md)
+* [Untitled](anime-manga-directory/untitled.md)
 
 ## Discord Bot
 
